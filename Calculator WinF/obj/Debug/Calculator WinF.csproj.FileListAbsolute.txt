@@ -1,0 +1,10 @@
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\bin\Debug\Calculator WinF.exe.config
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\bin\Debug\Calculator WinF.exe
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\bin\Debug\Calculator WinF.pdb
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator WinF.csproj.AssemblyReference.cache
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator_WinF.Form1.resources
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator_WinF.Properties.Resources.resources
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator WinF.csproj.GenerateResource.cache
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator WinF.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator WinF.exe
+C:\Users\Eldar\source\repos\Calculator WinF\Calculator WinF\obj\Debug\Calculator WinF.pdb
